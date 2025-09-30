@@ -1,0 +1,101 @@
+TransactionID,Store,Category,SalesAmount,AgeGroup,Gender,Nationality,IncomeLevel,LoyaltyMember,AdvertisementSpend,Date
+T001,Sharjah,Grocery,261.73,18-25,Female,Pakistan,High,Yes,4717.3,2023-01-01
+T002,Ajman,Grocery,725.47,46-60,Female,Philippines,Medium,Yes,7315.11,2023-01-02
+T003,Dubai,Home & Kitchen,1815.52,36-45,Male,Pakistan,High,No,7274.25,2023-01-03
+T004,Sharjah,Grocery,558.82,36-45,Male,Pakistan,Medium,No,8443.23,2023-01-04
+T005,Sharjah,Grocery,1302.43,60+,Female,India,Low,Yes,7802.53,2023-01-05
+T006,Ajman,Sports,21.03,36-45,Male,Philippines,High,No,32402.86,2023-01-06
+T007,Dubai,Home & Kitchen,718.09,36-45,Male,Pakistan,High,Yes,9912.12,2023-01-07
+T008,Dubai,Sports,623.47,36-45,Female,UAE,Low,Yes,17937.7,2023-01-08
+T009,Sharjah,Sports,346.02,26-35,Female,UAE,High,Yes,44942.63,2023-01-09
+T010,Abu Dhabi,Home & Kitchen,1077.5,60+,Male,Other,High,Yes,24224.12,2023-01-10
+T011,Sharjah,Clothing,979.96,18-25,Female,Philippines,Medium,Yes,33710.33,2023-01-11
+T012,Sharjah,Sports,1391.02,46-60,Male,Philippines,High,Yes,9443.67,2023-01-12
+T013,Sharjah,Beauty,553.44,18-25,Female,Other,Low,No,10422.16,2023-01-13
+T014,Sharjah,Beauty,503.37,60+,Male,Pakistan,Medium,No,3002.56,2023-01-14
+T015,Ajman,Grocery,353.22,46-60,Female,Philippines,Medium,No,9277.82,2023-01-15
+T016,Dubai,Beauty,453.15,60+,Male,UAE,Low,Yes,14650.93,2023-01-16
+T017,Ajman,Grocery,1125.04,36-45,Male,UAE,Low,Yes,9673.51,2023-01-17
+T018,Ajman,Clothing,819.6,46-60,Male,India,Medium,No,5346.42,2023-01-18
+T019,Ajman,Home & Kitchen,148.49,36-45,Female,Philippines,High,No,6911.16,2023-01-19
+T020,Sharjah,Home & Kitchen,522.75,18-25,Male,Pakistan,Medium,Yes,23578.16,2023-01-20
+T021,Abu Dhabi,Home & Kitchen,508.81,18-25,Male,Other,Low,No,11110.35,2023-01-21
+T022,Dubai,Beauty,1398.68,46-60,Female,Other,Medium,No,18849.22,2023-01-22
+T023,Abu Dhabi,Clothing,1430.3,46-60,Female,Pakistan,Low,No,25667.45,2023-01-23
+T024,Ajman,Beauty,313.21,60+,Male,India,Medium,No,34829.35,2023-01-24
+T025,Ajman,Beauty,1995.53,60+,Male,Other,High,No,2926.29,2023-01-25
+T026,Abu Dhabi,Clothing,548.23,36-45,Female,Philippines,Medium,Yes,40171.11,2023-01-26
+T027,Abu Dhabi,Clothing,1953.7,46-60,Female,India,Medium,No,31767.12,2023-01-27
+T028,Abu Dhabi,Clothing,833.85,18-25,Female,Philippines,Low,No,5006.19,2023-01-28
+T029,Ajman,Clothing,85.44,60+,Female,UAE,Low,Yes,43805.35,2023-01-29
+T030,Ajman,Home & Kitchen,703.24,60+,Female,India,Low,Yes,46122.75,2023-01-30
+T031,Dubai,Electronics,1276.02,18-25,Male,Other,Medium,Yes,3992.82,2023-01-31
+T032,Dubai,Electronics,1367.8,60+,Female,India,High,No,14567.0,2023-02-01
+T033,Ajman,Clothing,1071.25,36-45,Male,India,Low,No,40503.86,2023-02-02
+T034,Abu Dhabi,Electronics,906.61,46-60,Male,India,Low,Yes,37664.72,2023-02-03
+T035,Abu Dhabi,Electronics,1114.73,18-25,Male,India,Medium,Yes,10041.53,2023-02-04
+T036,Dubai,Clothing,1193.54,46-60,Female,Philippines,Low,Yes,11258.12,2023-02-05
+T037,Ajman,Electronics,180.09,60+,Male,UAE,High,No,19153.13,2023-02-06
+T038,Dubai,Beauty,751.92,60+,Male,Pakistan,High,No,24741.63,2023-02-07
+T039,Dubai,Grocery,499.48,18-25,Female,India,Low,No,31294.48,2023-02-08
+T040,Sharjah,Grocery,1610.22,36-45,Male,Other,Low,Yes,19076.77,2023-02-09
+T041,Sharjah,Clothing,951.2,26-35,Male,India,Medium,Yes,23664.2,2023-02-10
+T042,Sharjah,Home & Kitchen,1967.18,18-25,Female,Other,High,Yes,37626.08,2023-02-11
+T043,Abu Dhabi,Clothing,809.67,26-35,Male,Philippines,High,Yes,2797.48,2023-02-12
+T044,Ajman,Home & Kitchen,1636.54,26-35,Male,Other,Low,No,13369.41,2023-02-13
+T045,Ajman,Grocery,1600.72,36-45,Male,Pakistan,Medium,No,35954.13,2023-02-14
+T046,Ajman,Clothing,318.42,26-35,Female,UAE,High,No,44865.14,2023-02-15
+T047,Ajman,Sports,1026.23,26-35,Female,Other,High,No,26072.19,2023-02-16
+T048,Sharjah,Beauty,1397.71,36-45,Female,Other,Medium,Yes,27073.56,2023-02-17
+T049,Abu Dhabi,Electronics,1719.55,26-35,Male,UAE,Medium,No,6251.43,2023-02-18
+T050,Abu Dhabi,Home & Kitchen,665.4,26-35,Male,Pakistan,High,No,22923.21,2023-02-19
+T051,Sharjah,Sports,456.08,26-35,Female,India,High,No,27098.25,2023-02-20
+T052,Abu Dhabi,Electronics,1428.08,18-25,Male,Other,Medium,Yes,12881.05,2023-02-21
+T053,Sharjah,Electronics,1622.81,18-25,Male,UAE,High,Yes,14192.92,2023-02-22
+T054,Ajman,Clothing,710.36,18-25,Female,Philippines,Low,Yes,19486.92,2023-02-23
+T055,Sharjah,Electronics,210.43,36-45,Female,UAE,Low,No,1983.49,2023-02-24
+T056,Ajman,Beauty,1882.24,60+,Male,Philippines,Medium,No,16781.88,2023-02-25
+T057,Ajman,Sports,807.19,26-35,Male,Pakistan,Medium,Yes,11360.95,2023-02-26
+T058,Dubai,Electronics,1045.15,26-35,Male,India,Medium,No,17047.37,2023-02-27
+T059,Sharjah,Clothing,1678.67,36-45,Female,UAE,Low,No,6868.34,2023-02-28
+T060,Dubai,Beauty,1357.87,26-35,Female,Other,High,Yes,44635.84,2023-03-01
+T061,Sharjah,Grocery,1475.73,18-25,Female,Pakistan,Low,Yes,30086.03,2023-03-02
+T062,Sharjah,Sports,433.96,60+,Female,UAE,High,No,34276.01,2023-03-03
+T063,Dubai,Electronics,1092.07,46-60,Male,Other,Low,Yes,39669.39,2023-03-04
+T064,Dubai,Clothing,1397.65,26-35,Female,UAE,High,No,25423.67,2023-03-05
+T065,Sharjah,Grocery,472.53,18-25,Female,Philippines,Low,Yes,5259.09,2023-03-06
+T066,Abu Dhabi,Grocery,366.41,46-60,Female,UAE,Medium,No,27318.22,2023-03-07
+T067,Ajman,Home & Kitchen,1964.69,60+,Female,UAE,Low,Yes,29755.21,2023-03-08
+T068,Dubai,Beauty,1042.94,46-60,Female,UAE,High,Yes,37526.53,2023-03-09
+T069,Ajman,Electronics,536.44,18-25,Male,Pakistan,Low,No,22151.32,2023-03-10
+T070,Abu Dhabi,Clothing,1992.58,46-60,Male,UAE,Low,Yes,7251.43,2023-03-11
+T071,Abu Dhabi,Home & Kitchen,1931.53,36-45,Female,Other,Low,Yes,14905.02,2023-03-12
+T072,Abu Dhabi,Beauty,1125.42,46-60,Male,Philippines,Medium,Yes,18791.03,2023-03-13
+T073,Dubai,Home & Kitchen,1767.62,26-35,Female,Philippines,Low,No,32649.94,2023-03-14
+T074,Abu Dhabi,Sports,393.64,26-35,Female,UAE,Medium,No,28968.14,2023-03-15
+T075,Dubai,Beauty,572.17,36-45,Male,Pakistan,Medium,No,18448.74,2023-03-16
+T076,Abu Dhabi,Beauty,1406.71,18-25,Male,Pakistan,Low,Yes,49339.25,2023-03-17
+T077,Ajman,Electronics,1696.39,26-35,Female,Other,Low,Yes,30682.97,2023-03-18
+T078,Ajman,Beauty,1715.52,60+,Female,UAE,Low,Yes,12624.11,2023-03-19
+T079,Sharjah,Home & Kitchen,820.93,26-35,Female,Philippines,High,Yes,5987.34,2023-03-20
+T080,Ajman,Beauty,1777.78,26-35,Male,Pakistan,Low,Yes,8490.1,2023-03-21
+T081,Sharjah,Electronics,1704.84,18-25,Female,UAE,Medium,Yes,13051.93,2023-03-22
+T082,Ajman,Electronics,1872.56,46-60,Female,Pakistan,Low,Yes,8873.39,2023-03-23
+T083,Dubai,Sports,1574.97,26-35,Female,Pakistan,High,No,10141.78,2023-03-24
+T084,Ajman,Home & Kitchen,1344.6,36-45,Male,Philippines,Low,Yes,14969.66,2023-03-25
+T085,Sharjah,Grocery,1169.76,46-60,Female,India,High,Yes,9495.31,2023-03-26
+T086,Sharjah,Grocery,757.12,60+,Female,Other,High,No,44941.51,2023-03-27
+T087,Abu Dhabi,Beauty,1881.46,18-25,Male,Other,Low,Yes,4931.45,2023-03-28
+T088,Dubai,Sports,1947.85,60+,Female,Philippines,Medium,No,26701.06,2023-03-29
+T089,Ajman,Clothing,582.16,46-60,Female,Pakistan,High,No,21109.44,2023-03-30
+T090,Abu Dhabi,Beauty,624.62,46-60,Male,UAE,Low,No,49136.55,2023-03-31
+T091,Ajman,Sports,981.52,46-60,Female,Pakistan,Low,Yes,6489.91,2023-04-01
+T092,Ajman,Home & Kitchen,907.88,60+,Male,Philippines,Medium,No,20494.92,2023-04-02
+T093,Abu Dhabi,Home & Kitchen,1989.03,46-60,Male,Other,High,Yes,48504.05,2023-04-03
+T094,Abu Dhabi,Home & Kitchen,368.33,60+,Female,Pakistan,High,Yes,43409.85,2023-04-04
+T095,Abu Dhabi,Home & Kitchen,55.79,46-60,Female,Other,Low,Yes,41036.53,2023-04-05
+T096,Abu Dhabi,Home & Kitchen,997.91,36-45,Female,UAE,Low,No,13637.24,2023-04-06
+T097,Abu Dhabi,Sports,374.07,46-60,Female,Other,Medium,Yes,9373.49,2023-04-07
+T098,Ajman,Sports,745.61,60+,Male,Other,Medium,Yes,33763.52,2023-04-08
+T099,Abu Dhabi,Electronics,1493.46,26-35,Female,India,High,No,46539.42,2023-04-09
+T100,Dubai,Grocery,1447.46,46-60,Male,India,High,Yes,28281.38,2023-04-10
